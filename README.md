@@ -9,7 +9,7 @@ We recommend making a folder structure similar to this.
 ├── <My_parent_folder>
     ├── Miner
     ├── Repository
-    ├── ServiceRegistry
+    └── ServiceRegistry
 ```
 
 For simplicity, it the projects can be saved the this folders location as follows:
@@ -18,7 +18,7 @@ For simplicity, it the projects can be saved the this folders location as follow
 ├── ProcessDryLab
     ├── Miner
     ├── Repository
-    ├── ServiceRegistry
+    └── ServiceRegistry
 ```
 
 ## Docker compose
