@@ -15,7 +15,7 @@ We recommend making a folder structure similar to this.
 For simplicity, it the projects can be saved the this folders location as follows:
 
 ```
-├── System
+├── ProcessDryLab
     ├── Miner
     ├── Repository
     ├── ServiceRegistry
@@ -41,4 +41,5 @@ Stop all containers:
 docker-compose down
 ```
 
+Please be aware, that before you can run this compose file, you need to create and trust a development certificate for service registry. Follow the steps in the serviceRegistry README: https://github.com/ProcessDryLab-master-project/ServiceRegistry
 
