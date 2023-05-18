@@ -53,7 +53,7 @@ The service registry is a service that will allow discoverability of all connect
 
 ![Overall communication flow](./Assets/ServiceRegistryCommunications.png)
 
-### Docker compose
+# Docker compose
 
 If you have the above folder structure, the docker compose file from this project can be moved to <My_parent_folder> to do all the necessary start up steps. Top run the commands, open a terminal and navigate to <My_parent_folder> and run the commands below.
 
