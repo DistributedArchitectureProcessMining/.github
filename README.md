@@ -53,6 +53,10 @@ The service registry is a service that will allow discoverability of all connect
 
 ![Overall communication flow](./Assets/ServiceRegistryCommunications.png)
 
+### Test
+
+The repository consist of automated test for all endpoints in all services.
+
 # Docker compose
 
 This does not fulfill it's intended functionality when all services are running through docker on the same windows machine.
