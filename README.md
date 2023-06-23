@@ -12,7 +12,7 @@ We recommend making a folder structure similar to this.
     └── ServiceRegistry
 ```
 
-For simplicity, it the projects can be saved the this folders location as follows:
+For simplicity, the projects can be saved the this folders location as follows:
 
 ```
 ├── ProcessDryLab
