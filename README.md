@@ -83,5 +83,5 @@ Stop all containers:
 docker-compose down
 ```
 
-Please be aware, that before you can run this compose file, you need to create and trust a development certificate for service registry. Follow the steps in the serviceRegistry README: https://github.com/ProcessDryLab-master-project/ServiceRegistry
+Please be aware, that before you can run this compose file, you need to create and trust a development certificate for service registry. Follow the steps in the serviceRegistry README: https://github.com/ProcessDryLab/PDL-ServiceRegistry
 
