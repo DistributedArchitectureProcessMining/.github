@@ -20,7 +20,7 @@ We recommend making a folder structure similar to this.
 For simplicity, the projects can be saved the this folders location as follows:
 
 ```
-├── ProcessDryLab
+├── DistributedArchitectureProcessMining
     ├── Miner
     ├── Repository
     └── ServiceRegistry
