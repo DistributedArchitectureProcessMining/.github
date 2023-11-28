@@ -1,4 +1,5 @@
-# System
+# Distributed Architecture for Process Mining (DAPM)
+
 Information on the overall system.
 
 ## Run the project
