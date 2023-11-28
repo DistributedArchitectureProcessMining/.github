@@ -4,7 +4,7 @@ Information on the overall system.
 
 ## Run the project
 
-To start the project, follow the instruction of the readme.md file in the "Repository", "Miner", "Service registry" and "Dash-board" repositories. Once all programs are running, open the browser and either find the window that automatically opened when starting the dashboard, or go to http://localhost:8080/
+To start the project, follow the instruction of the readme.md file in the "Repository", "Miner", "Service registry" and "Frontend" repositories. Once all programs are running, open the browser and either find the window that automatically opened when starting the dashboard, or go to http://localhost:8080/
 
 ## Project structure
 
